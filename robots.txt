@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://banglakeyboard.abswer.com/sitemap.xml
+Sitemap: https://banglakeyboard.abswer.com/sitemap.xml
